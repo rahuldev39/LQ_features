@@ -48,8 +48,8 @@ header.masthead {
     margin: 80px 0 0;
 }
 .home-community-board__grid-item {
-    border-right: 1px solid #ffffff21;
-    border-bottom: 1px solid #ffffff1f;
+    border-right: 1px solid #ffffff80;
+    border-bottom: 1px solid #ffffff69;
 }
 }
 @media (min-width: 1025px)
