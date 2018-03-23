@@ -1,6 +1,6 @@
 header.masthead {
     min-height: 100vh;
-    padding-top: 0;
+    padding-top: 58px;
     padding-bottom: 0;
 }
 .home-community-board__header {
@@ -37,11 +37,15 @@ header.masthead {
 }
 
 .logo-container {
-    margin-bottom: 20px;
-    margin-top: 30px;
+    margin-top: 0px;
+    position: fixed;
+    width: 100%;
+    background-color: #070d1745;
+    padding: 10px;
+    text-align: left;
 }
 .logo-container img {
-    max-width: 243px;
+    max-width: 132px;
 }
 .hsg-page-width-normal{
   max-width: 1000px;
